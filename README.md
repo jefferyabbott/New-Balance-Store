@@ -3,7 +3,7 @@
 
 I don't work for New Balance, I just run a lot and often times, running feels best in New Balance shoes! Therefore, I chose New Balance as a "demo" ecommerce app in Flutter.
 
-This demo is inspired by Mitch Koko's excellent tutorial (he used Nike, but I have wide feet and cannot wear Nike shoes)... (YouTube)[https://www.youtube.com/watch?v=HQ_ytw58tC4]
+This demo is inspired by Mitch Koko's excellent tutorial (he used Nike, but I have wide feet and cannot wear Nike shoes)... [YouTube](https://www.youtube.com/watch?v=HQ_ytw58tC4)
 
 Other than choosing a different shoe brand, I made some UI modifications to ensure that it's friendly on a small screen, like the iPhone SE, or a big screen like an iPad.
 
